@@ -2,7 +2,7 @@
 
 I Like programing, games and technology
 
-- 🔭 I’m currently working with back-end
+- 🔭 I’m currently working with back-end but I work with front-end too
 - 🌱 I’m currently improving on Python
 
 Skills:
