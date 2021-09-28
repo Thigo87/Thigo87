@@ -8,11 +8,10 @@ I Like programing, games and technology
 <div>
   <a href="https://github.com/Thiaguim87">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiaguim87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaguim87&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-Skills:
 <div style="display: inline_block"><br>
+  Skills:
   <img align="center" alt="Thiaguim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
   
