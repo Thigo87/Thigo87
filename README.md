@@ -16,7 +16,7 @@ I Like programing, games and technology
 
  
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><r>
   
   <img align="center" alt="Thiaguim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
