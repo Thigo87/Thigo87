@@ -1,4 +1,4 @@
-### Hello I'm Thiago  👋
+## Hello I'm Thiago  👋
 
 I Like programing, games and technology
 
