@@ -12,7 +12,7 @@ I Like programing, games and technology
 
 ##
 <div>
-  <b>Skills:<b>
+ <b>Skills:<b>
 </div>
  
 
