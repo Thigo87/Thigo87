@@ -11,7 +11,7 @@ I Like programing, games and technology
 </div>
 
 ##
-<b>Skills:<b>
+### <b>Skills:<b>
 
  
 
@@ -21,3 +21,4 @@ I Like programing, games and technology
   <img align="center" alt="Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
   
 </div>
+##
