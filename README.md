@@ -11,9 +11,8 @@ I Like programing, games and technology
 </div>
 
 ##
-<div>
 <b>Skills:<b>
-</div>
+
  
 
 <div style="display: inline_block"><br>
