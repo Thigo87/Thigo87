@@ -8,7 +8,7 @@ I Like programing, games and technology
 <div style="display: inline_block"><br>
   <a href="https://github.com/Thiaguim87" a>
   <img align='left' height="180em" src="https://github-readme-stats.vercel.app/api?username=thiaguim87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align='right' height="180em" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/source.gif?cid=ecf05e47nkr4b9sal3dvqpenx8ndz9jhxvf56o92ezsd58s3&rid=source.gif&ct=g"/>   
+  <img align='center' height="180em" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/source.gif?cid=ecf05e47nkr4b9sal3dvqpenx8ndz9jhxvf56o92ezsd58s3&rid=source.gif&ct=g"/>   
 </div>
 
 ##
