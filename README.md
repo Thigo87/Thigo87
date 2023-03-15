@@ -33,6 +33,7 @@ I Like programing, games and technology
   <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
      
 </div>
-##
+
+  ##
   
 🇧🇷
