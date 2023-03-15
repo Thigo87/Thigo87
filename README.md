@@ -21,7 +21,7 @@ I Like programing, games and technology
   <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/source.gif?cid=ecf05e47nkr4b9sal3dvqpenx8ndz9jhxvf56o92ezsd58s3&rid=source.gif&ct=g"/>
+  <img align='right'  height="105em" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/source.gif?cid=ecf05e47nkr4b9sal3dvqpenx8ndz9jhxvf56o92ezsd58s3&rid=source.gif&ct=g"/>
   <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
   
