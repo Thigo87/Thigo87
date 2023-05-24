@@ -31,8 +31,7 @@ I Like programing, games and technology
  ### <b>Learning:<b>
   
 <div style="display: inline_block">      
-  <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />       
+  <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />     
 </div>
 
   ##
