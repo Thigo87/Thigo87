@@ -16,10 +16,10 @@ Favorite language:
   <a href="https://github.com/Thiaguim87" a>
   <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api?username=thiaguim87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
-  <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaguim87&size_weight=1.5&count_weight=1.5&theme=dark"/>
-  
 </div>
-
+<div>
+  <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaguim87&size_weight=2&count_weight=2&theme=dark"/>
+</div>
 ##
 ### <b>Skills:<b>
 
