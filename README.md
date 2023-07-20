@@ -9,7 +9,7 @@
 
 ○ Always trying to learn something new!
 
-Favorite language:
+○ Favorite language:
 <img align='center' alt="Thiaguim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <p>
 <div style="display: inline_block"><br>
