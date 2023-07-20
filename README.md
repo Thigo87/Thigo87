@@ -1,4 +1,6 @@
-## Hello I'm Thiago  👋
+## Hello I'm Thiago👋
+# Welcome to my GitHub profile!
+
 I'm from 🇧🇷
 
 I Like programming, games and technology
