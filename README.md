@@ -15,7 +15,8 @@ Favorite language:
 <div style="display: inline_block"><br>
   <a href="https://github.com/Thiaguim87" a>
   <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api?username=thiaguim87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+  <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaguim87&size_weight=0.5&count_weight=0.5"/>
+  
 </div>
 
 ##
