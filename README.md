@@ -44,7 +44,7 @@ Favorite language:
  ### <b>I use:<b>
   
 <div style="display: inline_block">      
-  <img align='center' alt="Thiaguim-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />              
+  <img align='center' alt="Thiaguim-VsCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />              
 </div>
 
   ##
@@ -52,8 +52,8 @@ Favorite language:
   ### <b>Databases:<b>
   
 <div style="display: inline_block">      
-  <img align='center' alt="Thiaguim-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align='center' alt="Thiaguim-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />     
+  <img align='center' alt="Thiaguim-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align='center' alt="Thiaguim-SQLite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />     
 </div>
 
   ##
