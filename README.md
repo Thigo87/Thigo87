@@ -1,9 +1,12 @@
 ## Hello I'm Thiago  👋
+I'm from 🇧🇷
 
-I Like programing, games and technology
+I Like programming, games and technology
 
-- 🔭 I’m currently working with back-end, but I work with front-end too
-- 🌱 I’m currently improving on Python
+Always trying to learn something new!
+
+Favorite language:
+<img align='center' alt="Thiaguim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Thiaguim87" a>
@@ -35,5 +38,23 @@ I Like programing, games and technology
 </div>
 
   ##
+
+  ##
   
-🇧🇷
+ ### <b>I use:<b>
+  
+<div style="display: inline_block">      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />              
+</div>
+
+  ##
+
+  ### <b>Databases:<b>
+  
+<div style="display: inline_block">      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />     
+</div>
+
+  ##
+  
