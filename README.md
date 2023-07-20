@@ -20,10 +20,10 @@ Favorite language:
 
 <div style="display: inline_block">
   <img align='center' alt="Thiaguim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img align='center' alt="Thiaguim-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align='center' alt="Thiaguim-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align='center' alt="Thiaguim-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align='center' alt="Thiaguim-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   
           
   
@@ -34,7 +34,7 @@ Favorite language:
  ### <b>Learning:<b>
   
 <div style="display: inline_block">      
-  <img align='center' alt="Thiaguim-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />     
+  <img align='center' alt="Thiaguim-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />     
 </div>
 
   ##
@@ -44,7 +44,7 @@ Favorite language:
  ### <b>I use:<b>
   
 <div style="display: inline_block">      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />              
+  <img align='center' alt="Thiaguim-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />              
 </div>
 
   ##
@@ -52,8 +52,8 @@ Favorite language:
   ### <b>Databases:<b>
   
 <div style="display: inline_block">      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />     
+  <img align='center' alt="Thiaguim-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align='center' alt="Thiaguim-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />     
 </div>
 
   ##
