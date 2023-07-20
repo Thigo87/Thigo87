@@ -1,13 +1,13 @@
 ## Hello I'm Thiago👋
 ### Welcome to my GitHub profile!
 
-I'm from 🇧🇷
+○ I'm from 🇧🇷
 
-I Like programming, games and technology
+○ I Like programming, games and technology
 
-Love Maths and Physics
+○ Love Maths and Physics
 
-Always trying to learn something new!
+○ Always trying to learn something new!
 
 Favorite language:
 <img align='center' alt="Thiaguim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
