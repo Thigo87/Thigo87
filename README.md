@@ -2,6 +2,7 @@
 I'm from 🇧🇷
 
 I Like programming, games and technology
+
 Love Maths and Physics
 
 Always trying to learn something new!
