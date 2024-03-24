@@ -14,7 +14,7 @@
 <p>
 <div style="display: inline_block"><br>
   <a href="https://github.com/Thigo-87" a>
-  <img align='left' height="180em" src="https://github-readme-stats.vercel.app/api?username=thiaguim87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align='left' height="180em" src="https://github-readme-stats.vercel.app/api?username=thigo-87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thigo-87&size_weight=2&count_weight=2&theme=dark"/>
 </div>
 </p>
