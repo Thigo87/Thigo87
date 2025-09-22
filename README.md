@@ -3,7 +3,7 @@
 
 ○ I'm from 🇧🇷
 
-○ I'm an Electronics Engineering student at UFPE
+○ I'm an Electronic Engineering student at UFPE
 
 ○ I Like programming, games and technology
 
