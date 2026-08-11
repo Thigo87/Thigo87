@@ -3,7 +3,7 @@
 
 ○ I'm from 🇧🇷
 
-○ I'm an Electronic Engineering student at UFPE
+○ I'm a Computer Engineering student at CIN-UFPE
 
 ○ I Like programming, games and technology
 
