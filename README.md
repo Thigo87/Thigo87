@@ -1,34 +1,17 @@
-## Hello I'm Thiago👋
-### Welcome to my GitHub profile!
+# Hi, I'm Thiago 👋
 
-○ I'm from 🇧🇷
+Computer Engineering student at CIN-UFPE, interested in programming, games, and technology in general. I like to learn by building — getting hands-on with code before diving deep into theory.
 
-○ I'm a Computer Engineering student at CIN-UFPE
+## Stack
 
-○ I Like programming, games and technology
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> | <img alt="C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"> | <img alt="HTML5" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> | <img alt="CSS3" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> |
+| Python | C | HTML5 | CSS3 |
+| <img alt="JavaScript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> | <img alt="Go" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"> | <img alt="Flask" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"> | |
+| JavaScript | Go | Flask | |
 
-○ Always trying to learn something new!
+## Contact
 
-##
-
-
-###
- 
-
-<div style="display: inline_block">
-  <img align='center' alt="Thiaguim-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align='center' alt="Thiaguim-C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align='center' alt="Thiaguim-Html" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align='center' alt="Thiaguim-Css" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align='center' alt="Thiaguim-JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align='center' alt="Thiaguim-Go" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-  <img align='center' alt="Thiaguim-Flask" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
-          
-          
-          
-  
-</div>
-  
- ##
-  
-  
+📍 Recife, PE — Brazil
+🔗 [thiagoclemente.online](https://thiagoclemente.online)
