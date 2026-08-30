@@ -28,8 +28,8 @@ Computer Engineering student at CIN-UFPE, interested in programming, games, and 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Thigo87&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Thiago's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thigo87&layout=compact&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-rho-ten-99.vercel.app/api?username=Thigo87&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Thiago's GitHub stats" />
+<img height="165" src="https://github-readme-stats-rho-ten-99.vercel.app/api/top-langs/?username=Thigo87&layout=compact&hide_border=true" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thigo87&hide_border=true" alt="GitHub Streak" />
 
