@@ -45,5 +45,9 @@ Computer Engineering student at CIN-UFPE, interested in programming, games, and 
 
 ## Contact
 
+<div align="center">
+
 📍 Recife, PE — Brazil
 🔗 [thiagoclemente.online](https://thiagoclemente.online)
+
+</div>
