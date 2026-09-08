@@ -16,12 +16,29 @@ Computer Engineering student at CIN-UFPE, interested in programming, games, and 
 
 <img alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
 <img alt="C" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">&nbsp;&nbsp;
+<img alt="Go" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">&nbsp;&nbsp;
+<img alt="C++" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;
 <img alt="HTML5" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp;&nbsp;
 <img alt="CSS3" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">&nbsp;&nbsp;
 <img alt="JavaScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
-<img alt="Go" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">&nbsp;&nbsp;
 <img alt="Flask" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg">
 
+</div>
+
+## Tools
+
+<div align="center">
+
+<img alt="VS Code" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">&nbsp;&nbsp;
+<img alt="Git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;&nbsp;
+<img alt="GitHub" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;&nbsp;
+<img alt="Jupyter" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">&nbsp;&nbsp;
+<img alt="Google Colab" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg">&nbsp;&nbsp;
+<img alt="Vercel" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg">&nbsp;&nbsp;
+<img alt="Arduino" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">&nbsp;&nbsp;
+<img alt="Ubuntu" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg">&nbsp;&nbsp;
+<img alt="Windows 11" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
+  
 </div>
 
 ## GitHub Stats
