@@ -15,7 +15,7 @@ Computer Engineering student at CIN-UFPE, interested in programming, games, and 
 <div align="center">
 
 <img alt="Python" height="45" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
-<img alt="C" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">   
+<img alt="C" height="45" src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">   
 <img alt="Go" height="45" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">   
 <img alt="C++" height="45" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">   
 <img alt="HTML5" height="45" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">   
