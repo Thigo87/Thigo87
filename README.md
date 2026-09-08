@@ -29,16 +29,16 @@ Computer Engineering student at CIN-UFPE, interested in programming, games, and 
 
 <div align="center">
 
-<img alt="VS Code" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">&nbsp;&nbsp;
-<img alt="Git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">&nbsp;&nbsp;
-<img alt="GitHub" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;&nbsp;
-<img alt="Jupyter" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">&nbsp;&nbsp;
-<img alt="Google Colab" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg">&nbsp;&nbsp;
-<img alt="Vercel" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg">&nbsp;&nbsp;
-<img alt="Arduino" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">&nbsp;&nbsp;
-<img alt="Ubuntu" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg">&nbsp;&nbsp;
+<img alt="VS Code" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">   
+<img alt="Git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">   
+<img alt="GitHub" height="45" src="https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=black">   
+<img alt="Jupyter" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">   
+<img alt="Google Colab" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg">   
+<img alt="Vercel" height="45" src="https://img.shields.io/badge/-Vercel-white?style=for-the-badge&logo=vercel&logoColor=black">   
+<img alt="Arduino" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">   
+<img alt="Ubuntu" height="45" src="https://img.shields.io/badge/-Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=black">   
 <img alt="Windows 11" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
-  
+
 </div>
 
 ## GitHub Stats
